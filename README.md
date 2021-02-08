@@ -1,6 +1,6 @@
 # qr_scan_test_app
 
-A new Flutter application.
+QR Scanner tested app
 
 ## Getting Started
 
